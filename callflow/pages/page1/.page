@@ -34,11 +34,12 @@
 <exit_state name="2" target="Element@1275853519:1592402244041"/>
 </exit_states>
 </element>
-<element height="60" id="Element@1880000895:1592402244041" type="Comment" width="307" x="228" y="145">
+<element height="75" id="Element@1880000895:1592402244041" type="Comment" width="307" x="228" y="145">
 <comment><![CDATA[This is test app 1
 You can add datetime comments here to confirm changes
 *************************************************************
-20200612 10:43]]></comment>
+20200612 10:43
+20200617  09:25]]></comment>
 </element>
 <element height="46" id="Element@1275853519:1592402244041" name="pBye" src="com.audium.server.voiceElement.audio.MAudio" type="Voice Element" width="99" x="399" y="404">
 <exit_states>
